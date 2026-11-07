@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+_test_tmp*/
+*.log
+*.tmp
+.DS_Store
+
+# Personal machine policy; publish a sanitized example separately if needed.
+GLOBAL_AGENTS_APPEND.md

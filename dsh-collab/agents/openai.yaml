@@ -1,0 +1,5 @@
+interface:
+  display_name: "DSH 按需执行与协作"
+  short_description: "按需委派 Desktop 执行；可选择后台异步执行与客观事件监控，提供阶段证据、会话续接与独立验收"
+policy:
+  allow_implicit_invocation: true
